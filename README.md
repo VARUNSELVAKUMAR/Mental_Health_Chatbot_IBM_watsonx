@@ -56,9 +56,9 @@ mental-health-chatbot/<br>
    genai.configure(api_key="YOUR_API_KEY")
 <i>  Note: To get your Gemini API key, you can use Gemini AI studio. Check this https://ai.google.dev/gemini-api/docs/api-key for more information.</i>
 
-+ You can check the JSON files of a sample chat conversation to understand how the JSON files are getting updated.
-+ Additionally you can refer the project report for additional details.
-+ Based on the username, diffrent profiles are created and when the user returns, their respective previous conversation summary is retrieved.
+- You can check the JSON files of a sample chat conversation to understand how the JSON files are getting updated.
+- Additionally you can refer the project report for additional details.
+- Based on the username, diffrent profiles are created and when the user returns, their respective previous conversation summary is retrieved.
 
 ## 💡 Usage
 
