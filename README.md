@@ -60,7 +60,7 @@ mental-health-chatbot/<br>
 * You can check the JSON files of a sample chat conversation to understand how the JSON files are getting updated.
 * Additionally you can refer the project report for additional details.
 <br>
-<b>Important Feature:</b> Based on the username, different profiles are created and when the user returns, their respective previous conversation summary is retrieved.
+<b><mark>Important Feature:</b> Based on the username, different profiles are created and when the user returns, their respective previous conversation summary is retrieved.</mark>
 
 
 ## 💡 Usage
