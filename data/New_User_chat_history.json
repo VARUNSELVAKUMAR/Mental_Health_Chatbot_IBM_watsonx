@@ -1,0 +1,55 @@
+{
+    "user_info": {},
+    "chat_history": [
+        {
+            "user_input": "I'm doing good",
+            "bot_response": "That's wonderful to hear! I'm so glad you're doing good today. Is there anything specific that's making you feel happy at the moment?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "I had nice time with my friends",
+            "bot_response": "That sounds wonderful! Spending time with friends can be such a great way to boost your mood. What did you do with your friends that made it a nice time?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "We had lunch together",
+            "bot_response": "That sounds lovely! Sharing a meal with someone can be such a simple but joyful experience. What kind of lunch did you have?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "It was Indian buffet and it was nice",
+            "bot_response": "That sounds delicious! Indian food is so flavorful and satisfying. What were some of your favorite dishes from the buffet?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "all of them",
+            "bot_response": "That's wonderful! So, all the Indian dishes were your favorites? That's a buffet win! Did you try any new dishes that you hadn't had before?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "hmm maybe the sweet",
+            "bot_response": "That's great! The sweets are always a highlight of any meal. What kind of sweets did the buffet offer?",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "let me tell you a joke",
+            "bot_response": "That sounds great! I love jokes. I'm ready, hit me with your best shot! \ud83d\ude04",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "so the joke is \"Why didn't the cycle move ?, coz it was too-tired\"",
+            "bot_response": "That's a good one! \ud83d\ude04 I like the pun. Do you have any more jokes you'd like to share? I'm all ears!",
+            "emotion": "happy"
+        },
+        {
+            "user_input": "lol",
+            "bot_response": "Haha, that's a good one! Anything else you'd like to share or tell me about? \ud83d\ude0a",
+            "emotion": "eutral"
+        },
+        {
+            "user_input": "i'll talk to yu later",
+            "bot_response": "Okay, sounds good! I'll be here whenever you're ready. Have a good one, and feel free to reach out whenever you'd like to chat. \ud83d\ude0a",
+            "emotion": "neutrl"
+        }
+    ]
+}
