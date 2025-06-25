@@ -11,7 +11,7 @@ Original file is located at
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyBlkH2ub3l3IBRuqvE8zCHSgRqNMR-UqEk")
+genai.configure(api_key="<your_api_key>")
 
 i'import json
 import os
