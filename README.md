@@ -60,19 +60,19 @@ mental-health-chatbot/<br>
 
 Run the chatbot.ipynb notebook to:
 
-    Start the chatbot interaction loop.
+   * Start the chatbot interaction loop.
 
-    Handle user inputs, emotions, summaries.
+   * Handle user inputs, emotions, summaries.
 
-    Maintain user memory unless cleared.
+   * Maintain user memory unless cleared.
 
 🔐 Privacy & Ethics
 
-    No external database or tracking.
+   * No external database or tracking.
 
-    Users can erase their data.
+   * Users can erase their data.
 
-    No medical advice or medication is provided.
+   * No medical advice or medication is provided.
 
 
 
