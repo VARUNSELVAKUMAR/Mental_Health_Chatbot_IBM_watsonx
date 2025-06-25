@@ -18,9 +18,9 @@ A compassionate, privacy-first mental health chatbot built with Google Gemini Pr
 ## 🏗️ Architecture
 
 chatbot.ipynb
-├── load/save history: utils/file_utils.py
-├── summarization logic: utils/summarizer.py
-├── mood/emotion checks: utils/emotion_tracker.py
+├── load/save history: utils/file_utils.py\n
+├── summarization logic: utils/summarizer.py\n
+├── mood/emotion checks: utils/emotion_tracker.py\n
 └── chat loop + Gemini integration
 
 ## 📂 Folder Structure
