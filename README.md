@@ -54,8 +54,8 @@ mental-health-chatbot/<br>
 7. Set your Gemini API Key inside chatbot.py:
    ```
    genai.configure(api_key="YOUR_API_KEY")
-
-
+<i>Note: To get your Gemini API key, you can use Gemini AI studio. Check this https://ai.google.dev/gemini-api/docs/api-key for more information.<i>
+<br>
 💡 Usage
 
 Run the chatbot.ipynb notebook to:
