@@ -37,18 +37,22 @@ mental-health-chatbot/<br>
 ## 📦 Installation
 
 1. Clone the repo:
-   git clone https://github.com/VARUNSELVAKUMAR/Mental_Health_Chatbot_IBM_watsonx.git
+   ```
+   git clone https://github.com/VARUNSELVAKUMAR/Mental_Health_Chatbot_IBM_watsonx.git<br>
    cd Mental_Health_Chatbot_IBM_watsonx
 
-2. Install Requirements:
+3. Install Requirements:
+   ```
    pip install -r requirements.txt
 
-3. Ensure nltk resources:
+5. Ensure nltk resources:
+   ```
    import nltk
    nltk.download("punkt")
    nltk.download("stopwords")
 
-4. Set your Gemini API Key inside chatbot.py:
+7. Set your Gemini API Key inside chatbot.py:
+   ```
    genai.configure(api_key="YOUR_API_KEY")
 
 
