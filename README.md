@@ -33,6 +33,7 @@ mental-health-chatbot/<br>
 ├── README.md # Project overview<br>
 └── docs/ # Architecture and contribution guide
 
+<b>Note: If you are running this on Google Colab or Jupyter Notebook, then you can directly use the Chatbot_IDE.ipynb file.</b>
 
 ## 📦 Installation
 
